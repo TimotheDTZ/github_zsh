@@ -4,8 +4,12 @@
 
 ---
 
-## This is my slide
+## How to initialize a new repository
 
 ---
 
-## Happy Hacking
+## How to review changes
+
+---
+
+## How to commit changes
