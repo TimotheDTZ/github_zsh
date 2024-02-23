@@ -17,3 +17,7 @@
 ---
 
 ## Create a new branch
+
+---
+
+# Merge branch on main
